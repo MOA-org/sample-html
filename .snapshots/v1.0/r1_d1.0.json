@@ -1,0 +1,13 @@
+{
+  "version": "v1.0",
+  "release": 1,
+  "deployment_number": 1.0,
+  "environment": "dev",
+  "app_id": "id_1777922957950_bc8c2c31",
+  "app_name": "HTML-TEST",
+  "timestamp": "2026-05-04T19:29:49.812305",
+  "deployed_by": "id_1758924180000_da1dcddc",
+  "build_settings": {},
+  "environment_variables": {},
+  "amplify_app_id": null
+}
